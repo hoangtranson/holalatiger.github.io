@@ -3,37 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://iminh.com/hello/</loc>
-    <lastmod>2016-05-05T21:49:57-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iminh.com/tag/hello/</loc>
-    <lastmod>2016-05-05T21:49:57-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://iminh.com/</loc>
-    <lastmod>2016-05-05T21:49:57-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://iminh.com/post/</loc>
-    <lastmod>2016-05-05T21:49:57-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://iminh.com/tag/</loc>
-    <lastmod>2016-05-05T21:49:57-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://iminh.com/tag/welcome/</loc>
-    <lastmod>2016-05-05T21:49:57-07:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -8,19 +8,9 @@
     <language>en-us</language>
     <managingEditor>hi@imlinh.com (Tan Linh)</managingEditor>
     <webMaster>hi@imlinh.com (Tan Linh)</webMaster>
-    <lastBuildDate>Thu, 05 May 2016 21:49:57 -0700</lastBuildDate>
     
 	<atom:link href="https://iminh.com/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Hello</title>
-      <link>https://iminh.com/hello/</link>
-      <pubDate>Thu, 05 May 2016 21:49:57 -0700</pubDate>
-      <author>hi@imlinh.com (Tan Linh)</author>
-      <guid>https://iminh.com/hello/</guid>
-      <description>Hello World!</description>
-    </item>
     
   </channel>
 </rss>
