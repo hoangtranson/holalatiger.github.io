@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Im Linh</title>
-    <link>https://iminh.com/</link>
+    <link>https://holalatiger.github.io/</link>
     <description>Recent content on Im Linh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>hi@imlinh.com (Tan Linh)</managingEditor>
     <webMaster>hi@imlinh.com (Tan Linh)</webMaster>
     
-	<atom:link href="https://iminh.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://holalatiger.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
