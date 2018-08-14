@@ -33,6 +33,7 @@ preserveTaxonomyNames = true
     width = 50
     height = 50
     alt = "Im Linh"
+publishDir = "docs"
 
 [Author]
   name = "Tan Linh"
